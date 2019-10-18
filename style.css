@@ -1,0 +1,43 @@
+/*universal styles*/
+
+* {
+    margin: 0;
+    padding: 0;
+
+}
+
+html, body{
+    font-size: 16px;
+    font-weight: normal;
+    font-family: "helvetica", sans-serif;
+    font-size: 24px;
+}
+
+#logo{
+    height: 32px;
+    margin-top: 16px;
+    padding-left: 24px;
+}
+
+header{
+    height: 65px;
+    background-color: coral;
+}
+
+#colmar{
+    display: inline;
+    font-size: 20px;
+    margin-top:16px;
+    padding: 0;
+}
+
+#academy{
+    display: inline;
+    color: gray;
+    font-size: 20px;
+    margin-top: 16px;
+}
+
+nav{
+    float: right;
+}
